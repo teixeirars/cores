@@ -1,0 +1,59 @@
+main {
+    display: flex;
+    
+}
+
+.sedans {
+    background-color: #e28525;
+    width: 280px;
+    height: 550px;
+    border-radius: 10px 0px 0px 10px;
+    
+}
+
+.suvs {
+    background-color: #016972;
+    width: 280px;
+    height: 550px;
+    
+}
+
+.luxury {
+    background-color: #00403f;
+    width: 280px;
+    height: 550px;
+    border-radius: 0px 10px 10px 0px;
+}
+
+.laranja  {
+    margin-top: 190px;
+    margin-left: 50px;
+    border: 1px solid #e28525;
+    width: 130px;
+    height: 40px;
+    color: #e28525;
+}
+
+.verde {
+    border: 1px solid #016972;
+    width: 130px;
+    height: 40px;
+    margin-top: 190px;
+    margin-left: 50px;
+    color: #016972;
+}
+
+.verde-escuro {
+    border: 1px solid #00403f;
+    width: 130px;
+    height: 40px;
+    margin-top: 190px;
+    margin-left: 50px;
+    color: #00403f;
+}
+
+button:hover {
+    background: none;
+    border: 1px solid white;
+    color: white;   
+}
